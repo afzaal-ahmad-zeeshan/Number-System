@@ -1,0 +1,13 @@
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\Number Conversion System WPF\Number Conversion System WPF\bin\Debug\Number Conversion System WPF.exe.config
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\Number Conversion System WPF\Number Conversion System WPF\bin\Debug\Number Conversion System WPF.exe
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\Number Conversion System WPF\Number Conversion System WPF\bin\Debug\Number Conversion System WPF.pdb
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\Number Conversion System WPF\Number Conversion System WPF\obj\Debug\Number Conversion System WPF.csprojResolveAssemblyReference.cache
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\Number Conversion System WPF\Number Conversion System WPF\obj\Debug\MainWindow.baml
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\Number Conversion System WPF\Number Conversion System WPF\obj\Debug\MainWindow.g.cs
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\Number Conversion System WPF\Number Conversion System WPF\obj\Debug\App.g.cs
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\Number Conversion System WPF\Number Conversion System WPF\obj\Debug\Number Conversion System WPF_MarkupCompile.cache
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\Number Conversion System WPF\Number Conversion System WPF\obj\Debug\Number Conversion System WPF.g.resources
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\Number Conversion System WPF\Number Conversion System WPF\obj\Debug\Number_Conversion_System_WPF.Properties.Resources.resources
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\Number Conversion System WPF\Number Conversion System WPF\obj\Debug\Number Conversion System WPF.csproj.GenerateResource.Cache
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\Number Conversion System WPF\Number Conversion System WPF\obj\Debug\Number Conversion System WPF.exe
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\Number Conversion System WPF\Number Conversion System WPF\obj\Debug\Number Conversion System WPF.pdb
